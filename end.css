@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+.main{
+    font-family: 'Arimo', sans-serif;
+}
+#cent{
+    text-align:center;
+    margin-top: 15px;
+}
+.one{
+    display: flex;
+    padding-right: 15px;
+    justify-content: center;
+    font-size: 19px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-family: 'Arimo', sans-serif;
+
+}
+.big{
+    width: 320px;
+    height:750px;
+    background-color: red;
+    margin-top: 120px;
+    margin-left: 1010px;
+    padding-left: 100px;
+    background-image: url("https://images.pexels.com/photos/6382485/pexels-photo-6382485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-position:right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+}
+#ball{
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: -60px;
+}
+.second{
+    margin-top: -760px;
+    margin-left: 70px;
+    text-align: left;
+
+}
+.vertical {
+    margin-left: 475px;
+    margin-top: -700px;
+    border-left: 6px solid black;
+    height: 675px;
+    position:absolute;
+    left: 34%
+
+
+}
+.edits{
+    font-family: 'Arimo', sans-serif;
+    font-size: 22px;
+    line-height: 32px;
+}
+.third{
+    margin-left:70px;
+    margin-top: 150px;
+
+
+}
+.big1{
+    width: 400px;
+    height:700px;
+    background-color:red;
+    display: block;
+    margin-top: -1850px;
+    margin-left: 1010px;
+    padding-left: 10px;
+    background-image: url("https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: right;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.vertical1 {
+    margin-top: -1800px;
+    margin-left: 480px;
+    border-left: 6px solid black;
+    height: 615px;
+    position:absolute;
+    left: 34%
+
+}
+.paul{
+    width: 700px;
+    height: 60px;
+    margin-left: 400px;
+    background-color: black;
+    margin-top: 1400px;
+    color: white;
+    text-align:center;
+    padding-top: 35px;
+
+}
+.paul1{
+    text-align: right;
+    margin-top: -60px;
+    margin-right: 10px;
+    line-height: 10px;
+}
+a:hover{
+    color: firebrick;
+    transition-duration: 0.3s;
+    transition: width ;
+    height: 2px;
+
+}
